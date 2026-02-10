@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Shaurya 👋<br>Software Engineer Intern at Fi Money (fintech) with strong interest in scalable systems, data platforms, and distributed backend architecture. Currently pursuing B.Tech in Computer Science at SRM Institute of Science and Technology with a CGPA around 9.8.<br><br>I enjoy building production-ready backend services using Golang, working with databases, APIs, observability, and cloud infrastructure. I’ve also solved 400+ DSA problems and love problem solving, system design, and performance optimization.<br><br>Always open to collaborating on backend, fintech, data engineering, or interesting open-source projects 🚀
 
-Fi Money Github: ![](https://github.com/Shaurya-Fi)
+Fi Money Github: [@Shaurya-Fi](https://github.com/Shaurya-Fi)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaurya__gupta__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-choudha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shauryagupta213@gmail.com) 
